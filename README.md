@@ -27,7 +27,3 @@ In Python, when a specific key is pressed, it sends a specific serial communicat
 
 
 
-https://github.com/100-heon/tekken8_Auto-Electric-Wind-God-Fist/assets/158144807/f07e5347-d58e-49a1-82c7-4e1a66817fc2
-
-
-
